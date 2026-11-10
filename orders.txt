@@ -1,0 +1,13 @@
+SC001|Completed|2026-11-09T14:19:29.131449500|Butterscotch~Ice Cream~80;American Dry Fruit~Ice Cream~100
+SC002|Preparing|2026-11-09T14:22:55.731696900|Thums Up~Drinks~20;Chicken Fry Piece Biryani~Biryani~240;Sapota Juice~Juices~80;Chocolate~Ice Cream~80
+SC003|Preparing|2026-11-09T14:42:44.992762400|Sapota Juice~Juices~80;Grapes Juice~Juices~60
+SC004|Completed|2026-11-09T14:47:04.874429700|American Dry Fruit~Ice Cream~100;Butterscotch~Ice Cream~80;Chicken Biryani~Biryani~220
+SC005|Completed|2026-11-09T15:23:51.678588100|Pulpy~Drinks~20
+SC006|Pending|2026-11-09T15:34:43.642031400|Chocolate~Ice Cream~80;Chocolate~Ice Cream~80
+SC007|Pending|2026-11-09T15:44:15.351444400|Sprite~Drinks~20;Limca~Drinks~20
+SC008|Pending|2026-11-09T17:04:14.536077800|Chicken Fry Piece Biryani~Biryani~240;Sapota Juice~Juices~80;Butterscotch~Ice Cream~80
+SC009|Completed|2026-11-09T18:10:06.180011100|Chicken Biryani~Biryani~220;Limca~Drinks~20
+SC010|Pending|2026-11-09T18:11:38.994790600|Mutton Biryani~Biryani~300;Limca~Drinks~20
+SC011|Pending|2026-11-09T18:36:12.360131400|Chicken Fry Piece Biryani~Biryani~240;Limca~Drinks~20
+SC012|Pending|2026-11-09T18:59:48.691844300|Ghee Dosa~Dosa~70;Plain Dosa~Dosa~35
+SC013|Pending|2026-11-09T22:16:13.297702600|Grapes Juice~Juices~60
